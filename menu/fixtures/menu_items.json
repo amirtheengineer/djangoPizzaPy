@@ -1,0 +1,88 @@
+[
+  {
+    "model": "menu.topping",
+    "pk": 1,
+    "fields": {
+      "name": "Pepperoni",
+      "price": "2.00"
+    }
+  },
+  {
+    "model": "menu.topping",
+    "pk": 2,
+    "fields": {
+      "name": "Mushrooms",
+      "price": "0.00"
+    }
+  },
+  {
+    "model": "menu.topping",
+    "pk": 3,
+    "fields": {
+      "name": "Vegetarian",
+      "price": "2.00"
+    }
+  },
+  {
+    "model": "menu.topping",
+    "pk": 4,
+    "fields": {
+      "name": "Cheese",
+      "price": "0.00"
+    }
+  },
+  {
+    "model": "menu.pizza",
+    "pk": 1,
+    "fields": {
+      "name": "Cheese",
+      "size": "S",
+      "price": "10.00"
+    }
+  },
+  {
+    "model": "menu.pizza",
+    "pk": 2,
+    "fields": {
+      "name": "Cheese",
+      "size": "L",
+      "price": "20.00"
+    }
+  },
+  {
+    "model": "menu.pizza",
+    "pk": 3,
+    "fields": {
+      "name": "Pepperoni",
+      "size": "S",
+      "price": "12.00"
+    }
+  },
+  {
+    "model": "menu.pizza",
+    "pk": 4,
+    "fields": {
+      "name": "Pepperoni",
+      "size": "L",
+      "price": "22.00"
+    }
+  },
+  {
+    "model": "menu.pizza",
+    "pk": 5,
+    "fields": {
+      "name": "Vegetarian",
+      "size": "S",
+      "price": "12.00"
+    }
+  },
+  {
+    "model": "menu.pizza",
+    "pk": 6,
+    "fields": {
+      "name": "Vegetarian",
+      "size": "L",
+      "price": "22.00"
+    }
+  }
+]

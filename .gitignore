@@ -1,0 +1,9 @@
+/accounts/migrations/
+/assistant/migrations/
+/menu/migrations/
+/orders/migrations/
+.idea
+/.idea
+/.idea/
+/.venv/
+/workspace.xml
